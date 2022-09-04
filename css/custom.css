@@ -177,7 +177,7 @@ code:not(pre code) {
 }
 
 body.darkmode code:not(pre code) {
-  background-color: rgb(65, 65, 65);
+  background-color: rgb(0, 0, 0);
 }
 
 /* blockquote */
